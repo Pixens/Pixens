@@ -5,7 +5,7 @@ class Pixens:
 
   def __init__(self):
     self.username = 'Pixens'
-    self.contacts = 'https://solo.to/Pixens'
+    self.contacts = 'solo.to/Pixens'
     self.occupation = 'Founder/CEO of boostup.cc'
     self.passion = 'Making Money'
     self.hobby = 'Annoying Discord'
