@@ -1,5 +1,10 @@
 ```py
 class Pixens:
-  self.hobby = 'Annoying Discord'
+  def __init__(self):
+    self.username = 'Pixens'
+    self.contacts = 'https://solo.to/Pixens'
+    self.projects = ['https://boostup.cc']
+    self.passion = 'Making Money'
+    self.hobby = 'Annoying Discord'
 
 ```
