@@ -11,6 +11,6 @@ class Pixens:
     self.hobby = 'Annoying Discord'
 
 ```
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pixens&style=flat-square&color=cf6757" />
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=Pixens&style=flat-square&color=cf6757" />
+
