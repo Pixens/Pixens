@@ -12,5 +12,5 @@ class Pixens:
 
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Pixens&style=flat-square&color=cf6757" />
+ <img src="https://komarev.com/ghpvc/?username=Pixens&style=flat-square&color=cf6757" />
 
